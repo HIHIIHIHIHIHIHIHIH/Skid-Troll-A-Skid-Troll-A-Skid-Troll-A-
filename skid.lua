@@ -52,7 +52,7 @@ local Toggle = MainSection:CreateToggle({
 
                        if animator then
                            local anim = Instance.new('Animation')
-                           anim.AnimationId = ('http=507770677' .. utf8.char(Random.new():NextInteger(1, 65535)) .. MessageText):sub(1, 256)
+                           anim.AnimationId = ('http=jews67jews67' .. utf8.char(Random.new():NextInteger(1, 65535)) .. MessageText):sub(1, 256)
                            local loaded = animator:LoadAnimation(anim)
                            loaded:Play(0, 0.0001, 0)
                            Count = Count + 1
